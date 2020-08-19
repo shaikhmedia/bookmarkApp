@@ -1,0 +1,65 @@
+.top {
+    background-color: rgba(211, 211, 211, 0.61);
+    width: 50%;
+    margin: 0px auto;
+    padding: 25px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 5px;
+}
+
+button {
+    margin-top: 15px;
+    width: 100px;
+    align-self: center;
+    background-color: blue;
+    padding: 8px;
+    color: white;
+    border-radius: 3px;
+    border: none;
+}
+
+.output {
+    width: 50%;
+    margin: 10px auto;
+    background-color: rgba(211, 211, 211, 0.61);
+    margin: 10px auto;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+#item {
+    display: flex;
+    align-items: center;
+}
+
+#dlt{
+    width: auto;
+    padding: 4px;
+    background-color: red;
+}
+
+#link {
+    text-decoration: none;
+    color: white;
+    background-color: grey;
+    padding: 4px;
+    border-radius: 3px;
+    margin-right: 125px;
+}
+
+#itemName {
+    width: 200px;
+}
+
